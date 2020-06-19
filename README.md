@@ -1,7 +1,7 @@
 # DoS-tester
 Denial-of-Service attack tester.
-Don't use this illegaly
-I am not responsible if you use this illegaly
+Don't use this illegally
+I am not responsible if you use this illegally
 It is entirely the user's responsibility
 
 also currently it is very weak because it is only one computer doing it.
