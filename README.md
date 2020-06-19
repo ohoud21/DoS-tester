@@ -6,7 +6,7 @@ It is entirely the user's responsibility
 
 also currently it is very weak because it is only one computer doing it.
 
-don't download the entire repository just the .py file that you want
+don't download the entire repository just the .py file that you want (unless you really want to for some reason)
 
 How to use for ULTRA noobs:
 
